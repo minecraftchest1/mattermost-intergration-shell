@@ -13,4 +13,6 @@ curl -s -X POST -H 'Authorization: Bearer <Access Token>' -d '{"channel_id":"<Ch
 
 #TODO: conferm command
 
+$cmd
 
+#TODO: post command output.
